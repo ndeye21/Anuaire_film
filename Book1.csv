@@ -1,0 +1,4 @@
+id_film,nom_film,Description,date_sortie,duree,langue_sortie,genre
+1,Divergent,film avec des fractions,2014-03-19,139 minutes,anglaise,roman science-fiction dystopie
+2,Ant Man,homme arraignee,2015-06-29,117 minutes,anglaise,Super-heros
+3,Jurasic world,film avec des dinosaures,2018-06-06,128 minutes,anglaise,action aventures science fiction
